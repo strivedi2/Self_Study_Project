@@ -3,14 +3,17 @@ title: "Analysing Climate Change Data Visualizations"
 author: "Shruti Trivedi"
 date: "4/11/2019"
 output:
-  github_document:
+  html_document:
     df_print: paged
     toc: true
     toc_float: true
     number_sections: true
     fig_caption: true
+    fig_height: 4
+    fig_width: 5
     
 ---
+
 
 # Introduction 
 This is a self study project that aims to review, compare and contrast five existing  visualizations on the topic *"Climate change is caused by human activity"*.  
