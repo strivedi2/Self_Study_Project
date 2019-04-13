@@ -1,32 +1,15 @@
 # Self_Study_Project
 
----
-title: "Analysing Climate Change Data Visualizations"
-author: "Shruti Trivedi"
-date: "4/11/2019"
-output:
-  html_document:
-    df_print: paged
-    toc: true
-    toc_float: true
-    number_sections: true
-    fig_caption: true
-    fig_height: 4
-    fig_width: 5
-    
----
-
-
-# Introduction 
+## Introduction 
 This is a self study project that aims to review, compare and contrast five existing  visualizations on the topic *"Climate change is caused by human activity"*.  
   
     
     
-## Objective
+### Objective
 The objective of this project is to understand what are the parameters that are important to consider when creating a data visualization, and how these parameters can help distinguish a good visualization from an average visualization.
 
   
-## Methodology
+### Methodology
 1. Create an [evaluation framework](#Evaluation Framework).
 
 2. Collect 5 distinct data visualizations on the topic.
@@ -38,7 +21,7 @@ The objective of this project is to understand what are the parameters that are 
 5. Provide an overall assessment and conclusion about what distinguishes a good data visualization from an average one, and what are the key takeaways from this study.
 
 
-# Evaluation Framework
+## Evaluation Framework
 The evaluation criteria identified for this project include:       
 
 - **Data**: This criterion evaluates the data represented by the visualization in terms of *integrity* and *multivariability*. It is grounded in the fact that a visualization is only as good as the data that goes in it.  [Tufte(2001):Pages 15, 34, 40, 53]
@@ -60,9 +43,9 @@ The complete evaluation framework is presented below:
 
 
 
-# Climate Change Visualizations and their evaluation
+## Climate Change Visualizations and their evaluation
 
-## Global Natural Disasters, 1980 - 2016, [National Geographic](https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
+### Global Natural Disasters, 1980 - 2016, [National Geographic](https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
 This chart shows how the number of climate related disasters has tripled since 1980.  
 
 Source for data (*as mentioned on National Geographic's website*): [Munich RE NatCatSERVICE](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html)
@@ -79,7 +62,7 @@ Source for data (*as mentioned on National Geographic's website*): [Munich RE Na
 **Total Score** | | | | | **4.5** 
 
 
-## Atmospheric CO~2~ concentration (ppm), 1700 - 2016, [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
+### Atmospheric CO~2~ concentration (ppm), 1700 - 2016, [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
 
 This chart shows global average long-term atmospheric concentration of carbon dioxide (CO₂), measured in parts per million (ppm).
 
@@ -99,7 +82,7 @@ Source for data: [Scripps CO~2~ Program](http://scrippsco2.ucsd.edu/data/atmosph
 **Total Score** | | | | | **3.5** 
 
 
-## Global temperature change, 1850 - 2017 by Ed Hawkins: [Climate Lab Book](https://www.climate-lab-book.ac.uk/spirals/)
+### Global temperature change, 1850 - 2017 by Ed Hawkins: [Climate Lab Book](https://www.climate-lab-book.ac.uk/spirals/)
 
 The website states - _"The animated climate spiral below is a different way to show the historically observed changes in global temperature. The original version quickly went viral, and was seen millions of times on Facebook and Twitter. A version was even used in the opening ceremony of the Rio Olympics!"_
 
@@ -118,7 +101,7 @@ Source for data: [Met Office Hadley Centre observations datasets, HadCRUT4](http
 3. Argument | **Clarity**: The chart clearly brings home the point that global temperatures are increasingly rising, even more rapidly in the current century.  | 1 |  **Compelling**: Given the audience, this chart can be very compelling to indicate how close the temperature is to reaching a difference of 1.5^0^C, the danger of which has been indicated by red color ring. | 1.0 | 2
 **Total Score** | | | | | **4.5** 
 
-## Climate Change: Beef has the biggest climate impact, [BBC News](https://www.bbc.com/news/science-environment-46384067)
+### Climate Change: Beef has the biggest climate impact, [BBC News](https://www.bbc.com/news/science-environment-46384067)
 
 This chart is part of a series of [7 charts on climate change](https://www.bbc.com/news/science-environment-46384067) published on BBC News' website. It talks about the impact of human food producing activity on the climate and shows greenhouse gas emissions from processing of various types of meat/proteins.
 
@@ -136,8 +119,7 @@ Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmenta
 **Total Score** | | | | | **3.5** 
 
 
-## 
-
+###
 
 # Conclusion
 
