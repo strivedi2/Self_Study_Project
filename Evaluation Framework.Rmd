@@ -14,7 +14,7 @@ output:
     
 ---
 ```
-rmarkdown::render
+rmarkdown::render()
 ```
 
 
@@ -109,6 +109,7 @@ Source for data: [Met Office Hadley Centre observations datasets, HadCRUT4](http
 ![](http://blogs.reading.ac.uk/climate-lab-book/files/2016/06/spiral_2017_large-1.gif)
 
 
+
 **Chart Evaluation**
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
@@ -118,7 +119,22 @@ Source for data: [Met Office Hadley Centre observations datasets, HadCRUT4](http
 3. Argument | **Clarity**: The chart clearly brings home the point that global temperatures are increasingly rising, even more rapidly in the current century.  | 1 |  **Compelling**: Given the audience, this chart can be very compelling to indicate how close the temperature is to reaching a difference of 1.5^0^C, the danger of which has been indicated by red color ring. | 1.0 | 2
 **Total Score** | | | | | **4.5** 
 
-## 
+## Climate Change: Beef has the biggest climate impact, [BBC News](https://www.bbc.com/news/science-environment-46384067)
+
+This chart is part of a series of [7 charts on climate change](https://www.bbc.com/news/science-environment-46384067) published on BBC News' website. It talks about the impact of human food producing activity on the climate and shows greenhouse gas emissions from processing of various types of meat/proteins.
+
+Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987-992
+
+![](beef_bbc_image.png)
+
+**Chart Evaluation**
+
+**Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
+-------------|--------------------------|------|-------------------------|-----|-------------
+1. Data | **Integrity**: The data is taken from the paper published by Poore & Nemecek (2018) in Science which is a renowned scientific journal. | 1 | **Multivariability**: The chart lists different types of meat and proteins and shows greenhouse gas emissions from each. It categorizes impact of the greenhouse emissions which is an insightful addition. However, little information is displayed from farming practices, or overall contribution to total greenhouse gas emissions etc. | 0.5 | 1.5
+2. Design | **Chart type**: Chart layout is clean, colors have been used approrpiately to signify low, average and high impact. However, one can say the layout is pretty novice. | 1 | **Readability**: The chart fails in terms of readability because of 2 reasons- _a._ meaning of low, average and high impact is not specified, _b._ actual values of the emissions can not be read from the chart. | 0 | 1
+3. Argument | **Clarity**: From the chart it can be clearly seen that vegetable proteins produce very little emissions as compared to animal proteins. But what is not clear is the contribution to total greenhouse gas emissions, and its resulting impact on the climate.  | 0.5 |  **Compelling**: The chart does have a strong message that _highest impact vegetable proteins emit less greenhouse gases than low impact animal proteins_. However, the chart does leave one wanting to know more about nature of land use and farming practices that might lead to this variation and overall effect on the climate from these emissions. | 0.5 | 1
+**Total Score** | | | | | **3.5** 
 
 
 
