@@ -31,8 +31,9 @@ The evaluation criteria identified for this project include:
 3. **Argument**: This criterion evalutes how complex ideas are communicated by the visualization in terms of *clarity* of the intended argument and how *compelling* the argument is for the intended audience.
 
 <br/>
-The complete evaluation framework is presented below: <br/>
-
+The complete evaluation framework is presented below: 
+<br/>  
+  
 
 Criteria | Measure 1 | Measure 2 | Total Points
 -------- | --------- | --------- | -------------
@@ -45,7 +46,7 @@ Argument | **Clarity** *(1 point)*: Whether the argument communicates complex id
 
 ## Climate Change Visualizations and their evaluation
 <br/>
-#### 1. Global Natural Disasters, 1980 - 2016, [National Geographic](https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
+1. **Global Natural Disasters, 1980 - 2016, [National Geographic]**(https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
 This chart shows that the number of climate related disasters has tripled since 1980.  
 
 Source for data (*as mentioned on National Geographic's website*): [Munich RE NatCatSERVICE](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html)
