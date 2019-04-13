@@ -144,9 +144,4 @@ Source for data: Not indicated on the website.
 ## Conclusion
 
 
-References
-1. Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. 
-2. Wexler, Shaffer, Cotgrave (2017): The Big Book of Dashboards, Wiley
-3. [What makes a good data visualization](https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/)
-
 
