@@ -45,7 +45,7 @@ Argument | **Clarity** *(1 point)*: Whether the argument communicates complex id
 <br/>
 
 ## Climate Change Visualizations and their evaluation
-<br/>
+
 #### Global Natural Disasters, 1980 - 2016, [National Geographic]**(https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
 This chart shows that the number of climate related disasters has tripled since 1980.  
 
