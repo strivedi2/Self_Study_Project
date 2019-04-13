@@ -24,11 +24,11 @@ The objective of this project is to understand what are the parameters that are 
 ## Evaluation Framework
 The evaluation criteria identified for this project include:       
 
-1. **Data**: This criterion evaluates the data represented by the visualization in terms of *integrity* and *multivariability*. It is grounded in the fact that a visualization is only as good as the data that goes in it.  [Tufte(2001):Pages 15, 34, 40, 53]
+1. **Data**: This criterion evaluates the data represented by the visualization in terms of *integrity* and *multivariability*. It is grounded in the fact that a visualization is only as good as the data that goes in it.  _( Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Pages 15, 34, 40, 53)_
 
 2. **Design**: This criterion evaluates design of the visualization in terms of *readability* and *chart type* used for visualizing the data. 
 
-3. **Argument**: This criterion evalutes how complex ideas are communicated by the visualization in terms of *clarity* of the intended argument and how *compelling* the argument is for the intended audience.
+3. **Argument**: This criterion evalutes how complex ideas are communicated by the visualization in terms of *clarity* of the intended argument and how *compelling* the argument is for the intended audience. _( Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Pages 13, 51)_
 
 <br/>
 The complete evaluation framework is presented below: 
@@ -37,8 +37,8 @@ The complete evaluation framework is presented below:
 
 Criteria | Measure 1 | Measure 2 | Total Points
 -------- | --------- | --------- | -------------
-Data | **Integrity** *(1 point)*: Whether data is statistically validated and/or collected from verified sources | **Multivariability** *(1 point)*: Number of dimensions added to the visualization by combining different data | 2
-Design | **Chart type** *(1 point)*: Whether the design uses appropriate chart type and color | **Readability** *(1 point)*: Whether the design or chart is easy to read and interpret | 2
+Data | **Integrity** *(1 point)*: Whether data is statistically validated and/or collected from verified sources. | **Multivariability** *(1 point)*: Number of dimensions added to the visualization by combining different data | 2
+Design | **Chart type** *(1 point)*: Whether the design uses appropriate chart type and color _(Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Page 51)_ | **Readability** *(1 point)*: Whether the design or chart is easy to read and interpret _(Wexler, Shaffer, Cotgrave (2017): The Big Book of Dashboards, Wiley. Pages 4-9)_ | 2
 Argument | **Clarity** *(1 point)*: Whether the argument communicates complex ideas in a simple and clear manner | **Compelling** *(1 point)*: Whether the argument is compelling and truthful, or does it leave room for doubt or further exploration | 2
 **Total Points** |        |       | **6**
 
@@ -143,7 +143,8 @@ Source for data: Not indicated on the website.
 
 ## Conclusion
 
-# References
+
+References
 1. Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. 
 2. Wexler, Shaffer, Cotgrave (2017): The Big Book of Dashboards, Wiley
 3. [What makes a good data visualization](https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/)
