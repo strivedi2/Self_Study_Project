@@ -11,6 +11,9 @@ output:
     fig_caption: true
     
 ---
+```
+rmarkdown::render
+```
 
 # Introduction 
 This is a self study project that aims to review, compare and contrast five existing  visualizations on the topic *"Climate change is caused by human activity"*.  
