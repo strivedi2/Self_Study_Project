@@ -38,8 +38,8 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-**Criteria** | **Measure 1** | **Measure 2** | **Total Points**
--------------|---------------|---------------|-----------------
+Criteria | Measure 1 | Measure 2 | Total Points
+---------|-----------|-----------|-------------
 1. Data | **Integrity** *(1 point)*: Whether data is statistically validated and/or collected from verified sources | **Multivariability** *(1 point)*: Number of dimensions added to the visualization by combining different data | 2
 2. Design | **Chart type** *(1 point)*: Whether the design uses appropriate chart type and color | **Readability** *(1 point)*: Whether the design or chart is easy to read and interpret | 2
 3. Argument | **Clarity** *(1 point)*: Whether the argument communicates complex ideas in a simple and clear manner | **Compelling** *(1 point)*: Whether the argument is compelling and truthful, or does it leave room for doubt or further exploration | 2
