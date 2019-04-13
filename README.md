@@ -9,7 +9,7 @@ The objective of this project is to understand what are the parameters that are 
 
   
 ### Methodology
-1. Create an [evaluation framework](#Evaluation Framework).
+1. Create an evaluation framework.
 
 2. Collect 5 distinct data visualizations on the topic.
 
