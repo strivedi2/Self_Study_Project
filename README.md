@@ -46,7 +46,7 @@ Argument | **Clarity** *(1 point)*: Whether the argument communicates complex id
 
 ## Climate Change Visualizations and their evaluation
 
-#### Global Natural Disasters, 1980 - 2016, [National Geographic]**(https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
+### 1. Global Natural Disasters, 1980 - 2016, [National Geographic]**(https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
 This chart shows that the number of climate related disasters has tripled since 1980.  
 
 Source for data (*as mentioned on National Geographic's website*): [Munich RE NatCatSERVICE](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html)
@@ -63,7 +63,7 @@ Source for data (*as mentioned on National Geographic's website*): [Munich RE Na
 **Total Score** | | | | | **4.5** 
 
 
-#### Atmospheric CO~2~ concentration (ppm), 1700 - 2016, [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
+### 2. Atmospheric CO~2~ concentration (ppm), 1700 - 2016, [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
 
 This chart shows global average long-term atmospheric concentration of carbon dioxide (CO₂), measured in parts per million (ppm).
 
@@ -83,7 +83,7 @@ Source for data: [Scripps CO~2~ Program](http://scrippsco2.ucsd.edu/data/atmosph
 **Total Score** | | | | | **3.5** 
 
 
-#### 3. Global temperature change, 1850 - 2017 by Ed Hawkins: [Climate Lab Book](https://www.climate-lab-book.ac.uk/spirals/)
+### 3. Global temperature change, 1850 - 2017 by Ed Hawkins: [Climate Lab Book](https://www.climate-lab-book.ac.uk/spirals/)
 
 The website states - _"The animated climate spiral below is a different way to show the historically observed changes in global temperature. The original version quickly went viral, and was seen millions of times on Facebook and Twitter. A version was even used in the opening ceremony of the Rio Olympics!"_
 
@@ -103,7 +103,7 @@ Source for data: [Met Office Hadley Centre observations datasets, HadCRUT4](http
 **Total Score** | | | | | **4.5** 
 
 
-#### 4.  Climate Change: Beef has the biggest climate impact, [BBC News](https://www.bbc.com/news/science-environment-46384067)
+### 4.  Climate Change: Beef has the biggest climate impact, [BBC News](https://www.bbc.com/news/science-environment-46384067)
 
 This chart is part of a series of [7 charts on climate change](https://www.bbc.com/news/science-environment-46384067) published on BBC News' website. It talks about the impact of human food producing activity on the climate and shows greenhouse gas emissions from processing of various types of meat/proteins.
 
@@ -121,7 +121,7 @@ Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmenta
 **Total Score** | | | | | **3.5** 
 
 
-#### 5.  
+### 5.  
 
 ## Conclusion
 
