@@ -46,7 +46,7 @@ Argument | **Clarity** *(1 point)*: Whether the argument communicates complex id
 
 ## Climate Change Visualizations and their evaluation
 <br/>
-1. **Global Natural Disasters, 1980 - 2016, [National Geographic]**(https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
+#### Global Natural Disasters, 1980 - 2016, [National Geographic]**(https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
 This chart shows that the number of climate related disasters has tripled since 1980.  
 
 Source for data (*as mentioned on National Geographic's website*): [Munich RE NatCatSERVICE](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html)
@@ -56,14 +56,14 @@ Source for data (*as mentioned on National Geographic's website*): [Munich RE Na
 **Chart Evaluation**
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
--------------|-----------------------------|-------|----------------------------|-------|-----------
+-------------|-----------------------------|-------|--------------------------|-------|-----------
 **Data** | **Integrity**: The [source](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html) is one of the world’s most comprehensive databases for analysing and evaluating natural catastrophes.  | 1 | **Multivariability**: Data represented includes 9 different kinds of natural disasters. | 1 | 2
 **Design** | **Chart type**: Good use of *grouped histogram* and *line chart* to distinguish trends between different groups of natural disasters; choice of colors is good. | 1 | **Readability**: The chart fails to show individual numbers for each group for every year. In addition title for y-axis is missing, so it might not be immediatley clear whether the numbers are to be taken at face value or are in multiples of hundreds, thousands etc. | 0 | 1
 **Argument** | **Clarity**: The graph depicts an overall increase in the total number of natural disasters between 1980 to 2016 and also shows the YoY change in each sub-group. | 1 |  **Compelling**: Although the chart does show an overall increase in the number of global natural disasters, the _red line_ showing number of earthquakes, tsunamis, volcanoes does not reflect the same trend, leaving room for further exploration. However, one can clearly see the multifold increase in the remaining categories. | 0.5 | 1.5
 **Total Score** | | | | | **4.5** 
 
 
-#### 2. Atmospheric CO~2~ concentration (ppm), 1700 - 2016, [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
+#### Atmospheric CO~2~ concentration (ppm), 1700 - 2016, [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
 
 This chart shows global average long-term atmospheric concentration of carbon dioxide (CO₂), measured in parts per million (ppm).
 
