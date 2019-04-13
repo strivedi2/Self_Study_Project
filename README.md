@@ -136,10 +136,10 @@ Source for data: Not indicated on the website.
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
 -------------|---------------------------------|------|-------------------------------|-----|------------
-**Data** | **Integrity**: The source for data is not indicated on the website or on the chart. It is also not clear who is the author/ where did the chart originate. | 0 | **Multivariability**: The chart lists difference in temperature but does not provide any other data to indicate the reason for the differences. | 0 | 0
+**Data** | **Integrity**: The source for data is not indicated on the website or on the chart. It is also not clear who is the author/ where did the chart originate. | 0 | **Multivariability**: The chart lists difference in temperature but does not provide any other data to indicate reason for the difference. | 0 | 0
 **Design** | **Chart type**: Chart layout is clean, with appropriate use of colors. | 1 | **Readability**: Chart axes are well labeled, however it is not clear which year is represented by _Today_ | 0.5 | 1.5
-**Argument** | **Clarity**: The chart clearly indicates that over the 400,000 years of data represented, there have been climates warmer than today.   | 0.5 |  **Compelling**: The chart does have a strong message that _highest impact vegetable proteins emit less greenhouse gases than low impact animal proteins_. However, the chart does leave one wanting to know more about nature of land use and farming practices that might lead to this variation and overall effect on the climate from these emissions. | 0.5 | 1
-**Total Score** | | | | | **3.5** 
+**Argument** | **Clarity**: The chart clearly indicates that over the 400,000 years of data represented, there have been climates warmer than today.  | 1 |  **Compelling**: The chart conveys that the spike in temperature is just another incident when compared with Earth's history. Appropriate use or colors and the well spread out spikes, do appear convincing that climate change might not be caused by human activity. However, it does leave the question of cause of spikes and dips in the temperature difference unanswered.   | 0.5 | 1.5
+**Total Score** | | | | | **4.0** 
 
 ## Conclusion
 
