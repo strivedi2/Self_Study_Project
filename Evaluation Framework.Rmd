@@ -13,6 +13,9 @@ output:
     fig_width: 5
     
 ---
+```
+rmarkdown::render
+```
 
 
 # Introduction 
