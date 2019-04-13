@@ -121,7 +121,25 @@ Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmenta
 **Total Score** | | | | | **3.5** 
 
 
-### 5.  
+### 5.  Long Term Climatic Cycles from the Vostok Ice Core
+(http://ib.bioninja.com.au/standard-level/topic-4-ecology/44-climate-change/greenhouse-debate.html)
+
+This chart is used to argue that climate has changed in the past and current trends merely reflect the Earth’s natural climatic cycle. 
+
+Source for data: Not indicated on the website.
+
+![](climatic_cycle_vostok_ice_core.png)
+
+<br/>
+
+**Chart Evaluation:**
+
+**Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
+-------------|---------------------------------|------|-------------------------------|-----|------------
+**Data** | **Integrity**: The source for data is not indicated on the website or on the chart. It is also not clear who is the author of the chart. | 0 | **Multivariability**: The chart lists different types of meat and proteins and shows greenhouse gas emissions from each. It categorizes impact of the greenhouse emissions which is an insightful addition. However, little information is displayed from farming practices, or overall contribution to total greenhouse gas emissions etc. | 0.5 | 1.5
+**Design** | **Chart type**: Chart layout is clean, colors have been used approrpiately to signify low, average and high impact. However, one can say the layout is pretty novice. | 1 | **Readability**: The chart fails in terms of readability because of 2 reasons- _a._ meaning of low, average and high impact is not specified, _b._ actual values of the emissions can not be read from the chart. | 0 | 1
+**Argument** | **Clarity**: From the chart it can be clearly seen that vegetable proteins produce very little emissions as compared to animal proteins. But what is not clear is the contribution to total greenhouse gas emissions, and its resulting impact on the climate.  | 0.5 |  **Compelling**: The chart does have a strong message that _highest impact vegetable proteins emit less greenhouse gases than low impact animal proteins_. However, the chart does leave one wanting to know more about nature of land use and farming practices that might lead to this variation and overall effect on the climate from these emissions. | 0.5 | 1
+**Total Score** | | | | | **3.5** 
 
 ## Conclusion
 
