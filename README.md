@@ -1,10 +1,18 @@
+---
+output: 
+  github_document:
+    toc: true
+    fig_width: 5
+    fig_height: 5
+
+----
+
 # Self_Study_Project
 
 ## Introduction 
-This is a self study project that aims to review, compare and contrast five existing  visualizations on the topic *"Climate change is caused by human activity"*.  
+This is a self study project that aims to review, compare and contrast five existing visualizations on the topic *"Climate change is caused by human activity"*.  
   
-    
-    
+
 ### Objective
 The objective of this project is to understand what are the parameters that are important to consider when creating a data visualization, and how these parameters can help distinguish a good visualization from an average visualization.
 
@@ -119,9 +127,9 @@ Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmenta
 **Total Score** | | | | | **3.5** 
 
 
-###
+### 
 
-# Conclusion
+## Conclusion
 
 # References
 1. Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. 
