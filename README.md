@@ -27,19 +27,20 @@ The evaluation criteria identified for this project include:
 
 2. **Design**: This criterion evaluates design of the visualization in terms of *readability* and *chart type* used for visualizing the data. 
 
-3. **Argument**: This ceriterion evalutes how complex ideas are communicated by the visualization in terms of *clarity* of the intended argument and how *compelling* the argument is for the intended audience.
+3. **Argument**: This criterion evalutes how complex ideas are communicated by the visualization in terms of *clarity* of the intended argument and how *compelling* the argument is for the intended audience.
 
 
 
 The complete evaluation framework is presented below:
 
-Criteria | Measure 1 | Measure 2 | Total Points
+First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 Criteria | Measure 1 | Measure 2 | Total Points
---------- | ----------- | ----------- | -------------
+-------- | --------- | --------- | -------------
+
 1. Data | **Integrity** *(1 point)*: Whether data is statistically validated and/or collected from verified sources | **Multivariability** *(1 point)*: Number of dimensions added to the visualization by combining different data | 2
 2. Design | **Chart type** *(1 point)*: Whether the design uses appropriate chart type and color | **Readability** *(1 point)*: Whether the design or chart is easy to read and interpret | 2
 3. Argument | **Clarity** *(1 point)*: Whether the argument communicates complex ideas in a simple and clear manner | **Compelling** *(1 point)*: Whether the argument is compelling and truthful, or does it leave room for doubt or further exploration | 2
