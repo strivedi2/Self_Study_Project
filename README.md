@@ -19,7 +19,8 @@ The objective of this project is to understand what are the parameters that are 
 
 5. Provide an overall assessment and conclusion about what distinguishes a good data visualization from an average one, and what are the key takeaways from this study.
 
-<br/>
+<br/>  
+
 ## Evaluation Framework
 The evaluation criteria identified for this project include:       
 
@@ -30,7 +31,7 @@ The evaluation criteria identified for this project include:
 3. **Argument**: This criterion evalutes how complex ideas are communicated by the visualization in terms of *clarity* of the intended argument and how *compelling* the argument is for the intended audience.
 
 <br/>
-The complete evaluation framework is presented below:
+The complete evaluation framework is presented below: <br/>
 
 
 Criteria | Measure 1 | Measure 2 | Total Points
