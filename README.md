@@ -33,6 +33,11 @@ The evaluation criteria identified for this project include:
 
 The complete evaluation framework is presented below:
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 **Criteria** | **Measure 1** | **Measure 2** | **Total Points**
 -------------|---------------|---------------|-----------------
 1. Data | **Integrity** *(1 point)*: Whether data is statistically validated and/or collected from verified sources | **Multivariability** *(1 point)*: Number of dimensions added to the visualization by combining different data | 2
