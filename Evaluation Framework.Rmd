@@ -3,7 +3,7 @@ title: "Analysing Climate Change Data Visualizations"
 author: "Shruti Trivedi"
 date: "4/11/2019"
 output:
-  html_document:
+  github_document:
     df_print: paged
     toc: true
     toc_float: true
