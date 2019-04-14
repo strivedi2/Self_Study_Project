@@ -167,7 +167,6 @@ Data source: Met Office Hadley Centre observations datasets, [HadCRUT4 Data](htt
 
 ![](https://github.com/strivedi2/Self_Study_Project/blob/master/Part2_Tableau_files/Warming%20Stripes-Replication.png)
 
-
 Link to Tableau public: (https://public.tableau.com/views/WarmingStripes_Replication/WarmingStripes-Replication?:embed=y&:display_count=yes)  
 
 Link to twbx file: (https://github.com/strivedi2/Self_Study_Project/blob/master/Part2_Tableau_files/)
