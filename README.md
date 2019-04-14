@@ -150,7 +150,27 @@ Source for data: Not indicated on the website.
 **Argument** | **Clarity**: The chart clearly indicates that over the 400,000 years of data represented, there have been climates warmer than today.  | 1 |  **Compelling**: The chart conveys that the spike in temperature is just another incident when compared with Earth's history. Appropriate use or colors and the well spread out spikes, do appear convincing that climate change might not be caused by human activity. However, it does leave the question of cause of spikes and dips in the temperature difference unanswered.   | 0.5 | 1.5
 **Total Score** | | | | | **3.0** 
 
+
+<br/>   
+
 ## Conclusion
+
+
+
+# Part 2: Replicating Warming Stripes Visualization
+
+Below is a replication of the Warming Stripes visualization using Tableau. 
+
+Inspiration: Original visualization created by Ed Hawkins.
+Data source: 
+
+
+![](WarmingStripes_Replication.png)
+
+
+Link to Tableau public:
+Link to twbx file:
+Link to 
 
 
 
