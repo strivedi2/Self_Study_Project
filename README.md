@@ -26,7 +26,7 @@ The evaluation criteria identified for this project include:
 
 1. **Data**: This criterion evaluates the data represented by the visualization in terms of *integrity* and *multivariability*. It is grounded in the fact that a visualization is only as good as the data that goes in it.  _( Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Pages 15, 34, 40, 53)_
 
-2. **Design**: This criterion evaluates design of the visualization in terms of *readability* and *chart type* used for visualizing the data. 
+2. **Design**: This criterion evaluates design of the visualization in terms of *readability* _(Wexler, Shaffer, Cotgrave (2017): The Big Book of Dashboards, Wiley. Pages 4-9)_ and *chart type* _(Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Page 51)_ used for visualizing the data. 
 
 3. **Argument**: This criterion evalutes how complex ideas are communicated by the visualization in terms of *clarity* of the intended argument and how *compelling* the argument is for the intended audience. _( Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Pages 13, 51)_
 
@@ -38,7 +38,7 @@ The complete evaluation framework is presented below:
 Criteria | Measure 1 | Measure 2 | Total Points
 -------- | --------- | --------- | -------------
 Data | **Integrity** *(1 point)*: Whether data is statistically validated and/or collected from verified sources. | **Multivariability** *(1 point)*: Number of dimensions added to the visualization by combining different data | 2
-Design | **Chart type** *(1 point)*: Whether the design uses appropriate chart type and color _(Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Page 51)_ | **Readability** *(1 point)*: Whether the design or chart is easy to read and interpret _(Wexler, Shaffer, Cotgrave (2017): The Big Book of Dashboards, Wiley. Pages 4-9)_ | 2
+Design | **Chart type** *(1 point)*: Whether the design uses appropriate chart type and color  | **Readability** *(1 point)*: Whether the design or chart is easy to read and interpret  | 2
 Argument | **Clarity** *(1 point)*: Whether the argument communicates complex ideas in a simple and clear manner | **Compelling** *(1 point)*: Whether the argument is compelling and truthful, or does it leave room for doubt or further exploration | 2
 **Total Points** |        |       | **6**
 
@@ -46,7 +46,7 @@ Argument | **Clarity** *(1 point)*: Whether the argument communicates complex id
 
 ## Climate Change Visualizations and their evaluation
 
-### 1. Global Natural Disasters, 1980 - 2016, [National Geographic]**(https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
+### 1. Global Natural Disasters, 1980 - 2016, [National Geographic](https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
 This chart shows that the number of climate related disasters has tripled since 1980.  
 
 Source for data (*as mentioned on National Geographic's website*): [Munich RE NatCatSERVICE](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html)
