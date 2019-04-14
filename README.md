@@ -51,7 +51,7 @@ This chart shows that the number of climate related disasters has tripled since 
 
 Source for data (*as mentioned on National Geographic's website*): [Munich RE NatCatSERVICE](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html)
 
-![](GlobalNaturalDisasters_NatGeo_1980-2016.png)
+![](img src="GlobalNaturalDisasters_NatGeo_1980-2016.png")
 
 **Chart Evaluation**
 
@@ -72,7 +72,7 @@ Source for data: [Scripps CO<sub>2</sub> Program](http://scrippsco2.ucsd.edu/dat
   
   
 
-![](co2-concentration-long-term.png)
+![](img src="co2-concentration-long-term.png" width="1000" height="1000")
 
 **Chart Evaluation**
 
