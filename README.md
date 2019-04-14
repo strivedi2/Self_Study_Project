@@ -161,15 +161,16 @@ Source for data: Not indicated on the website.
 
 Below is a replication of the Warming Stripes visualization using Tableau. 
 
-Inspiration: Original visualization created by Ed Hawkins.
-Data source: 
+Inspiration: Original visualization created by [Ed Hawkins]((https://www.climate-lab-book.ac.uk/2018/warming-stripes/).
+Data source: Met Office Hadley Centre observations datasets, [HadCRUT4 Data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html) 
 
 
 ![](https://github.com/strivedi2/Self_Study_Project/blob/master/Part2_Tableau_files/WarmingStripes_Replication.png)
 
 
-Link to Tableau public: (https://public.tableau.com/views/WarmingStripes_Replication/WarmingStripes-Replication?:embed=y&:display_count=yes)
-Link to twbx file: (https://github.com/strivedi2/Self_Study_Project/blob/master/Part2_Tableau_files/WarmingStripes_Replication.twbx)
+Link to Tableau public: (https://public.tableau.com/views/WarmingStripes_Replication/WarmingStripes-Replication?:embed=y&:display_count=yes)  
+
+Link to twbx file: (https://github.com/strivedi2/Self_Study_Project/blob/master/Part2_Tableau_files/)
 
 
 
