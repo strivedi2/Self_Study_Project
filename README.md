@@ -138,9 +138,9 @@ Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmenta
 
 ### 5.  Long Term Climatic Cycles from the Vostok Ice Core
 
-Link to website: (http://ib.bioninja.com.au/standard-level/topic-4-ecology/44-climate-change/greenhouse-debate.html)
-
 This chart is used to argue that climate has changed in the past and current trends merely reflect the Earth’s natural climatic cycle. 
+
+Reference: [Link to website](http://ib.bioninja.com.au/standard-level/topic-4-ecology/44-climate-change/greenhouse-debate.html)
 
 Source for data: Not indicated on the website.
 
@@ -153,9 +153,9 @@ Source for data: Not indicated on the website.
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
 ------------- | --------------------------------- | :------: | ------------------------- | :-----: |--------: 
-**Data** | **Integrity**: The source for data is not indicated on the website or on the chart. It is also not clear who is the author/ where did the chart originate. | 0 | **Multivariability**: The chart lists difference in temperature but does not provide any other data to indicate reason for the difference. | 0 | 0
-**Design** | **Chart type**: Chart layout is clean, with appropriate use of colors. | 1 | **Readability**: Chart axes are well labeled, however it is not clear which year is represented by _Today_ | 0.5 | 1.5
-**Argument** | **Clarity**: The chart clearly indicates that over the 400,000 years of data represented, there have been climates warmer than today.  | 1 |  **Compelling**: The chart conveys that the spike in temperature is just another incident when compared with Earth's history. Appropriate use or colors and the well spread out spikes, do appear convincing that climate change might not be caused by human activity. However, it does leave the question of cause of spikes and dips in the temperature difference unanswered.   | 0.5 | 1.5
+**Data** | **Integrity**: The source for data is not indicated on the website or on the chart. It is also not clear who is the author/ where did the chart originate. | 0 | **Multivariability**: The chart displays difference in global temperatures but does not provide any other data to indicate reason for the difference. | 0 | 0
+**Design** | **Chart type**: Chart layout is clean, with appropriate use of colors and a median line to distinguish outlier data points . | 1 | **Readability**: Chart axes are well labeled, however it is not clear which year is represented by _Today_. Nor is any information indicated about year of publication on the website | 0.5 | 1.5
+**Argument** | **Clarity**: The chart clearly indicates that over the 400,000 years of data represented, there have been instances of temperatures warmer than _today_. | 1 |  **Compelling**: The chart conveys that the spike in temperature is just another incident when compared with Earth's history. Appropriate use or colors and the well spread out spikes, do appear convincing that climate change might not be caused by human activity. However, it does leave the question about cause of _spikes and dips_ in temperature unanswered.   | 0.5 | 1.5
 **Total Score** | | | | | **3.0** 
 
 
@@ -163,9 +163,9 @@ Source for data: Not indicated on the website.
 
 ## Conclusion
 
-This exercise helped me understand that a visualization should meet certain criteria such as have validated data sources and have clear and readable chart designs. At the same time, certain aspects like multivariability and how compelling the argument presented by the visualization is, can really vary based on the target audience. For a large audience, a design with a clear, hard-hitting message would serve a larger purpose. Whereas, a visualization designed for a senior management team at a company might consist of data from multiple sources to increase granularity of information presented.
+This exercise helped me understand that a visualization should meet certain criteria such as have validated data sources and have clear and readable chart designs. At the same time, certain aspects like multivariability and how compelling the argument presented by the visualization is, can vary based on the target audience. For a large audience, a simple visualization design with a clear, hard-hitting message would serve a better purpose. Whereas, a visualization designed for a senior management team at a company might consist of data from multiple sources to increase granularity of information presented.
 
-Hence, there is no right or wrong visualization, it really depends on whether the data is statistical or scientifically validated, the chart is readable and ultimately does it cater to its target audience and conveys a clear message.
+Hence, there is no right or wrong way to create a visualization, it really depends on whether the source of data is validated, the chart is readable and ultimately does it cater to the intended audience and conveys a clear message.
 
 
 <br/>   
