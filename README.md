@@ -50,7 +50,8 @@ Argument | **Clarity** *(1 point)*: Whether the argument communicates complex id
 
 This chart shows that the number of climate related disasters has tripled since 1980.  
 
-Reference: [Link to website](https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
+Reference: [Link to website](https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)  
+
 Source for data (*as mentioned on National Geographic's website*): [Munich RE NatCatSERVICE](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html)
 
 ![](GlobalNaturalDisasters_NatGeo_1980-2016.png)
@@ -83,16 +84,17 @@ Source for data (_as mentioned on the website_): [Scripps CO<sub>2</sub> Program
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
 ------------- | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
 **Data** | **Integrity**: The data for this graph is sourced from Scripps CO<sub>2</sub> program which is a verified source for scientific literature and data. | 1 | **Multivariability**: Chart does not include any other data sources to from help explain the cause of increase in emissions, especially between 1950 - 2016. | 0 | 1
-**Design** | **Chart type**: Use of a simple *line chart* makes the chart look clean, use of color is also appropriate and appealing.  | 1.0 | **Readability**: Chart axes are labeled and easy to read. The chart also indicates values through a slider on the original website _(unfortunately, not replicated in the image on this page)_ | 1 | 1.5
+**Design** | **Chart type**: Use of a simple *line chart* makes the chart look clean, use of color is also appropriate and appealing.  | 1 | **Readability**: Chart axes are labeled and easy to read. The chart also indicates values through a slider on the original website _(unfortunately, not replicated in the image on this page)_ | 1 | 2
 **Argument** | **Clarity**: The chart clearly shows the increase in CO<sub>2</sub> concentration. However, it does not reveal any direct causes for e.g. a sharp increase observed from 1950 onwards. | 0.5 |  **Compelling**: While the sharp increase in atmospheric CO<sub>2</sub> levels is distinctly visible, the chart appears _**boring**_ since there is only one set of information to interpret. If the chart had included information from other data points such as change in world population, number of vehicles, number of industries etc. it might have made an interesting story for the audience. | 0.5 | 1.0
-**Total Score** | | | | | **3.5** 
+**Total Score** | | | | | **4.0** 
 
 <br/>  
 
-### 3. Global temperature change, 1850 - 2017 by Ed Hawkins, [Climate Lab Book](https://www.climate-lab-book.ac.uk/spirals/)
+### 3. Global temperature change, 1850 - 2017 by Ed Hawkins, Climate Lab Book
 
 The animated climate spiral below is a different way to show the historically observed changes in global temperature. The website states that _"the original version quickly went viral, and was seen millions of times on Facebook and Twitter. A version was even used in the opening ceremony of the Rio Olympics!"_
 
+Reference: [Link to website](https://www.climate-lab-book.ac.uk/spirals/)
 Source for data: [Met Office Hadley Centre observations datasets, HadCRUT4](https://www.metoffice.gov.uk/hadobs/hadcrut4/)
 
 ![](http://blogs.reading.ac.uk/climate-lab-book/files/2016/06/spiral_2017_large-1.gif)
