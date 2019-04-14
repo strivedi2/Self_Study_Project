@@ -95,6 +95,7 @@ Source for data (_as mentioned on the website_): [Scripps CO<sub>2</sub> Program
 The animated climate spiral below is a different way to show the historically observed changes in global temperature. The website states that _"the original version quickly went viral, and was seen millions of times on Facebook and Twitter. A version was even used in the opening ceremony of the Rio Olympics!"_
 
 Reference: [Link to website](https://www.climate-lab-book.ac.uk/spirals/)
+
 Source for data: [Met Office Hadley Centre observations datasets, HadCRUT4](https://www.metoffice.gov.uk/hadobs/hadcrut4/)
 
 ![](http://blogs.reading.ac.uk/climate-lab-book/files/2016/06/spiral_2017_large-1.gif)
@@ -119,7 +120,7 @@ This chart is part of a series of [7 charts on climate change](https://www.bbc.c
 
 Reference: [Link to website](https://www.bbc.com/news/science-environment-46384067)
 
-Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987-992
+Source for data: Poore, J., & Nemecek, T. (2018). _Reducing food’s environmental impacts through producers and consumers_. Science, 360(6392), 987-992
 
 ![](beef_bbc_image.png)
 
