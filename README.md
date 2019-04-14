@@ -24,11 +24,11 @@ The objective of this project is to understand what are the parameters that are 
 ## Evaluation Framework
 The evaluation criteria identified for this project include:       
 
-1. **Data**: This criterion evaluates the data represented by the visualization in terms of *integrity* and *multivariability*. It is grounded in the fact that a visualization is only as good as the data that goes in it.  _( Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Pages 15, 34, 40, 53)_
+1. **Data**: This criterion evaluates the data represented by the visualization in terms of __*integrity*__ and __*multivariability*__. It is grounded in the fact that a visualization is only as good as the data that goes in it.  _( Tufte, 2001: The Visual Display of Quantitative Information, Graphic Press. Pages 15, 34, 40, 53)_
 
-2. **Design**: This criterion evaluates design of the visualization in terms of *readability* _(Wexler, Shaffer, Cotgrave (2017): The Big Book of Dashboards, Wiley. Pages 4-9)_ and *chart type* _(Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Page 51)_ used for visualizing the data. 
+2. **Design**: This criterion evaluates design of the visualization in terms of __*readability*__ _(Wexler, Shaffer, Cotgrave, 2017: The Big Book of Dashboards, Wiley. Pages 4-9)_ and __*chart type*__ _(Tufte, 2001: The Visual Display of Quantitative Information, Graphic Press. Page 51)_ used for visualizing the data. 
 
-3. **Argument**: This criterion evalutes how complex ideas are communicated by the visualization in terms of *clarity* of the intended argument and how *compelling* the argument is for the intended audience. _( Tufte (2001): The Visual Display of Quantitative Information, Graphic Press. Pages 13, 51)_
+3. **Argument**: This criterion evalutes how complex ideas are communicated by the visualization in terms of __*clarity*__ of the intended argument and how __*compelling*__ the argument is for the intended audience. _( Tufte, 2001: The Visual Display of Quantitative Information, Graphic Press. Pages 13, 51)_
 
 <br/>
 The complete evaluation framework is presented below: 
@@ -56,18 +56,19 @@ Source for data (*as mentioned on National Geographic's website*): [Munich RE Na
 **Chart Evaluation**
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
--------------|-----------------------------|-------|--------------------------|-------|-----------
+-------------|-----------------------------------|-------|--------------------------|-------|-----------
 **Data** | **Integrity**: The [source](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html) is one of the world’s most comprehensive databases for analysing and evaluating natural catastrophes.  | 1 | **Multivariability**: Data represented includes 9 different kinds of natural disasters. | 1 | 2
 **Design** | **Chart type**: Good use of *grouped histogram* and *line chart* to distinguish trends between different groups of natural disasters; choice of colors is good. | 1 | **Readability**: The chart fails to show individual numbers for each group for every year. In addition title for y-axis is missing, so it might not be immediatley clear whether the numbers are to be taken at face value or are in multiples of hundreds, thousands etc. | 0 | 1
 **Argument** | **Clarity**: The graph depicts an overall increase in the total number of natural disasters between 1980 to 2016 and also shows the YoY change in each sub-group. | 1 |  **Compelling**: Although the chart does show an overall increase in the number of global natural disasters, the _red line_ showing number of earthquakes, tsunamis, volcanoes does not reflect the same trend, leaving room for further exploration. However, one can clearly see the multifold increase in the remaining categories. | 0.5 | 1.5
 **Total Score** | | | | | **4.5** 
 
+<br/>  
 
 ### 2. Atmospheric CO~2~ concentration (ppm), 1700 - 2016, [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
 
 This chart shows global average long-term atmospheric concentration of carbon dioxide (CO₂), measured in parts per million (ppm).
 
-Source for data: [Scripps CO~2~ Program](http://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products) 
+Source for data: [Scripps CO<sub>2</sub> Program](http://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products) 
   
   
 
