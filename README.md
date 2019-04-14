@@ -5,7 +5,7 @@ This is a self study project that aims to review, compare and contrast five exis
   
 
 ### Objective
-The objective of this project is to understand what are the parameters that are important to consider when creating a data visualization, and how these parameters can help distinguish a good visualization from an average visualization.
+The objective of this project is to understand what are the parameters that should be considered when creating a data visualization, and how these parameters can help distinguish a good visualization from an average visualization.
 
   
 ### Methodology
@@ -36,19 +36,21 @@ The complete evaluation framework is presented below:
   
 
 Criteria | Measure 1 | Measure 2 | Total Points
--------- | --------- | --------- | -------------
-Data | **Integrity** *(1 point)*: Whether data is statistically validated and/or collected from verified sources. | **Multivariability** *(1 point)*: Number of dimensions added to the visualization by combining different data | 2
-Design | **Chart type** *(1 point)*: Whether the design uses appropriate chart type and color  | **Readability** *(1 point)*: Whether the design or chart is easy to read and interpret  | 2
+:--------: | --------- | --------- | -------------:
+Data | **Integrity** *(1 point)*: Whether data is statistically validated and/or collected from verified sources. | **Multivariability** *(1 point)*: Number of dimensions added to the visualization by combining different types of data. | 2
+Design | **Chart type** *(1 point)*: Whether the design uses appropriate chart type and colors that enhance the quality of the visualization.  | **Readability** *(1 point)*: Whether the design or chart is easy to read and interpret. | 2
 Argument | **Clarity** *(1 point)*: Whether the argument communicates complex ideas in a simple and clear manner | **Compelling** *(1 point)*: Whether the argument is compelling and truthful, or does it leave room for doubt or further exploration | 2
 **Total Points** |        |       | **6**
 
 <br/>
 
-## Climate Change Visualizations and their evaluation
+## Climate Change Visualizations and Evaluation
 
-### 1. Global Natural Disasters, 1980 - 2016, [National Geographic](https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
+### 1. Global Natural Disasters, 1980 - 2016, National Geographic
+
 This chart shows that the number of climate related disasters has tripled since 1980.  
 
+Reference: [Link to website](https://www.nationalgeographic.com/magazine/2017/04/seven-things-to-know-about-climate-change/)
 Source for data (*as mentioned on National Geographic's website*): [Munich RE NatCatSERVICE](https://www.munichre.com/en/reinsurance/business/non-life/natcatservice/index.html)
 
 ![](GlobalNaturalDisasters_NatGeo_1980-2016.png)
@@ -64,11 +66,13 @@ Source for data (*as mentioned on National Geographic's website*): [Munich RE Na
 
 <br/>  
 
-### 2. Atmospheric CO<sub>2</sub> concentration (ppm), 1700 - 2016, [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
+### 2. Atmospheric CO<sub>2</sub> concentration (ppm), 1700 - 2016, Our World in Data
 
 This chart shows global average long-term atmospheric concentration of carbon dioxide (CO₂), measured in parts per million (ppm).
 
-Source for data: [Scripps CO<sub>2</sub> Program](http://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products) 
+Reference: [Link to website](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#impact-of-emissions-on-atmospheric-concentrations)
+
+Source for data (_as mentioned on the website_): [Scripps CO<sub>2</sub> Program](http://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products) 
   
   
 
@@ -78,9 +82,9 @@ Source for data: [Scripps CO<sub>2</sub> Program](http://scrippsco2.ucsd.edu/dat
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
 ------------- | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
-**Data** | **Integrity**: The data for this graph is sourced from Scripps CO~2~ program which has lot of scientific literature and technical data on their website. | 1 | **Multivariability**: Chart does not include any data from increase in vehicles, industries etc. which can help explain the cause of the steep increase in CO~2~ emissions especially between 1950 - 2016. | 0 | 1
-**Design** | **Chart type**: Use of a simple *line chart* makes the chart look clean, but it also appears _**boring**_ since there is only one set of information to interpret. | 0.5 | **Readability**: Chart axes are labeled and easy to read. The chart also indicates values through a slider on the original website _(unfortunately, not replicated in the image)_ | 1 | 1.5
-**Argument** | **Clarity**: The chart clearly shows the increase in CO~2~ concentration. However, it does not reveal any direct causes for e.g. a sharp increase observed from 1950 onwards. | 0.5 |  **Compelling**: The chart clearly shows a steep increase in CO~2~ concentration from 1900 onwards. However, if the chart had included information from other data points such as population, vehicles, industries etc. it would have been a more compelling story to tell the audience. | 0.5 | 1.0
+**Data** | **Integrity**: The data for this graph is sourced from Scripps CO<sub>2</sub> program which is a verified source for scientific literature and data. | 1 | **Multivariability**: Chart does not include any other data sources to from help explain the cause of increase in emissions, especially between 1950 - 2016. | 0 | 1
+**Design** | **Chart type**: Use of a simple *line chart* makes the chart look clean, use of color is also appropriate and appealing.  | 1.0 | **Readability**: Chart axes are labeled and easy to read. The chart also indicates values through a slider on the original website _(unfortunately, not replicated in the image on this page)_ | 1 | 1.5
+**Argument** | **Clarity**: The chart clearly shows the increase in CO<sub>2</sub> concentration. However, it does not reveal any direct causes for e.g. a sharp increase observed from 1950 onwards. | 0.5 |  **Compelling**: While the sharp increase in atmospheric CO<sub>2</sub> levels is distinctly visible, the chart appears _**boring**_ since there is only one set of information to interpret. If the chart had included information from other data points such as change in world population, number of vehicles, number of industries etc. it might have made an interesting story for the audience. | 0.5 | 1.0
 **Total Score** | | | | | **3.5** 
 
 <br/>  
