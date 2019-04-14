@@ -166,8 +166,8 @@ Hence, there is no right or wrong visualization, it really depends on whether th
 
 Below is a replication of the Warming Stripes visualization using Tableau. 
 
-Inspiration: Original visualization created by [Ed Hawkins]((https://www.climate-lab-book.ac.uk/2018/warming-stripes/).
-Data source: Met Office Hadley Centre observations datasets, [HadCRUT4 Data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html) 
+Inspiration: Original visualization created by [Ed Hawkins]((https://www.climate-lab-book.ac.uk/2018/warming-stripes/). <br/>  
+Data source: [Met Office Hadley Centre observations datasets, HadCRUT4 Data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html) 
 
 Link to [twbx file](https://github.com/strivedi2/Self_Study_Project/blob/master/Part2_Tableau_files/)
 
