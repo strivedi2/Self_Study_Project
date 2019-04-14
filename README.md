@@ -165,12 +165,11 @@ Inspiration: Original visualization created by Ed Hawkins.
 Data source: 
 
 
-![](WarmingStripes_Replication.png)
+![](https://github.com/strivedi2/Self_Study_Project/blob/master/Part2_Tableau_files/WarmingStripes_Replication.png)
 
 
-Link to Tableau public:
-Link to twbx file:
-Link to 
+Link to Tableau public: (https://public.tableau.com/views/WarmingStripes_Replication/WarmingStripes-Replication?:embed=y&:display_count=yes)
+Link to twbx file: (https://github.com/strivedi2/Self_Study_Project/blob/master/Part2_Tableau_files/WarmingStripes_Replication.twbx)
 
 
 
