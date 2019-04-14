@@ -56,7 +56,7 @@ Source for data (*as mentioned on National Geographic's website*): [Munich RE Na
 **Chart Evaluation**
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
--------------|-----------------------------|-------|----------------------|-------|-----------
+------------ | ----------------------------- | :-------: | ---------------------- | :-------: | -----------:
 **Data** | **Integrity**: The source is one of the world’s most comprehensive databases for analysing and evaluating natural catastrophes.  | 1 | **Multivariability**: Data represented includes 9 different kinds of natural disasters. | 1 | 2
 **Design** | **Chart type**: Good use of *grouped histogram* and *line chart* to distinguish trends between different groups of natural disasters; choice of colors is good. | 1 | **Readability**: The chart fails to show individual numbers for each group for every year. In addition title for y-axis is missing, so it might not be immediatley clear whether the numbers are to be taken at face value or are in multiples of hundreds, thousands etc. | 0 | 1
 **Argument** | **Clarity**: The graph depicts an overall increase in the total number of natural disasters between 1980 to 2016 and also shows the YoY change in each sub-group. | 1 |  **Compelling**: Although the chart does show an overall increase in the number of global natural disasters, the _red line_ showing number of earthquakes, tsunamis, volcanoes does not reflect the same trend, leaving room for further exploration. However, one can clearly see the multifold increase in the remaining categories. | 0.5 | 1.5
