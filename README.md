@@ -155,6 +155,9 @@ Source for data: Not indicated on the website.
 
 ## Conclusion
 
+This exercise helped me understand that a visualization should meet certain criteria such as have validated data sources and have clear and readable chart designs. At the same time, certain aspects like multivariability and how compelling the argument presented by the visualization is, can really vary based on the target audience. For a large audience, a design with a clear, hard-hitting message would serve a larger purpose. Whereas, a visualization designed for a senior management team at a company might consist of data from multiple sources to increase granularity of information presented.
+
+Hence, there is no one right or wrong visualization, it really depends on whether the data is statistical or scientifically validated, the chart is readable and ultimately does it cater to its target audience and conveys a clear message.
 
 
 # Part 2: Replicating Warming Stripes Visualization
