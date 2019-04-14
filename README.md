@@ -59,7 +59,7 @@ Source for data (*as mentioned on National Geographic's website*): [Munich RE Na
 **Chart Evaluation**
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
-------------- | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
+:-------------: | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
 **Data** | **Integrity**: The source is one of the world’s most comprehensive databases for analysing and evaluating natural catastrophes. | 1 | **Multivariability**: Data represented includes 9 different kinds of natural disasters.But, there is no other data dimension in terms of cause of natural disasters, other climatic factors such as greenhouse gases, temperature variation etc. | 0.5 | 1.5
 **Design** | **Chart type**: Good use of *grouped histogram* and *line chart* to distinguish trends between different groups of natural disasters; choice of colors is good. | 1 | **Readability**: The chart fails to show individual numbers for each group for every year. In addition title for y-axis is missing, so it might not be immediatley clear whether the numbers are to be taken at face value or are in multiples of hundreds, thousands etc. | 0 | 1
 **Argument** | **Clarity**: The graph depicts an overall increase in the total number of natural disasters between 1980 to 2016 and also shows the YoY change in each sub-group. | 1 |  **Compelling**: Although the chart does show an overall increase in the number of global natural disasters, the _red line_ showing number of earthquakes, tsunamis, volcanoes does not reflect the same trend, leaving room for further exploration. However, one can clearly see the multifold increase in the remaining categories. | 0.5 | 1.5
@@ -82,7 +82,7 @@ Source for data (_as mentioned on the website_): [Scripps CO<sub>2</sub> Program
 **Chart Evaluation**
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
-------------- | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
+:-------------: | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
 **Data** | **Integrity**: The data for this graph is sourced from Scripps CO<sub>2</sub> program which is a verified source for scientific literature and data. | 1 | **Multivariability**: Chart does not include any other data sources to from help explain the cause of increase in emissions, especially between 1950 - 2016. | 0 | 1
 **Design** | **Chart type**: Use of a simple *line chart* makes the chart look clean, use of color is also appropriate and appealing.  | 1 | **Readability**: Chart axes are labeled and easy to read. The chart also indicates values through a slider on the original website _(unfortunately, not replicated in the image on this page)_ | 1 | 2
 **Argument** | **Clarity**: The chart clearly shows the increase in CO<sub>2</sub> concentration. However, it does not reveal any direct causes for e.g. a sharp increase observed from 1950 onwards. | 0.5 |  **Compelling**: While the sharp increase in atmospheric CO<sub>2</sub> levels is distinctly visible, the chart appears _**boring**_ since there is only one set of information to interpret. If the chart had included information from other data points such as change in world population, number of vehicles, number of industries etc. it might have made an interesting story for the audience. | 0.5 | 1.0
@@ -105,7 +105,7 @@ Source for data: [Met Office Hadley Centre observations datasets, HadCRUT4](http
 **Chart Evaluation**
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
-------------- | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
+:-------------: | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
 **Data** | **Integrity**: HadCRUT4 dataset has been used to create this graph. It is a new data set of global and regional temperature evolution from 1850 to the present. | 1 | **Multivariability**: It includes MoM and YoY data for change in temperature. | 1 | 2
 **Design** | **Chart type**: The chart uses a climate spiral along with excellent use of colours to demonstrate the rise in global temperatures. Appropriate use of red colour rings to indicate danger. | 1 | **Readability**: There is no temperature scale to show actual values corresponding to each color. Also, the reader cannot access individual data points in the graph. | 0.5 | 1.5
 **Argument** | **Clarity**: The chart clearly brings home the point that global temperatures are increasingly rising, even more rapidly in the current century.  | 1 |  **Compelling**: Given the audience, this chart can be very compelling to indicate how close the global temperature is to reaching a difference of 1.5<super>0</super>C, the danger of which has been indicated by red color ring. | 1.0 | 2
@@ -113,9 +113,11 @@ Source for data: [Met Office Hadley Centre observations datasets, HadCRUT4](http
 
 <br/>  
 
-### 4.  Climate Change: Beef has the biggest climate impact, [BBC News](https://www.bbc.com/news/science-environment-46384067)
+### 4.  Climate Change: Beef has the biggest climate impact, BBC News
 
 This chart is part of a series of [7 charts on climate change](https://www.bbc.com/news/science-environment-46384067) published on BBC News' website. It talks about the impact of human food producing activities on the climate and shows greenhouse gas emissions from processing of various types of meat/proteins.
+
+Reference: [Link to website](https://www.bbc.com/news/science-environment-46384067)
 
 Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987-992
 
@@ -126,9 +128,9 @@ Source for data: Poore, J., & Nemecek, T. (2018). Reducing food’s environmenta
 **Chart Evaluation**
 
 **Criteria** | **Measure 1** | **Score** | **Measure 2** | **Score** | **Total Score**
-------------- | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
-**Data** | **Integrity**: The data is taken from the paper published by Poore & Nemecek (2018) in Science which is a renowned scientific journal. | 1 | **Multivariability**: The chart lists different types of meat and proteins and shows greenhouse gas emissions from each. It categorizes impact of the greenhouse emissions which is an insightful addition. However, little information is displayed from farming practices, or overall contribution to total greenhouse gas emissions etc. | 0.5 | 1.5
-**Design** | **Chart type**: Chart layout is clean, colors have been used approrpiately to signify low, average and high impact. However, one can say the layout is pretty novice. | 1 | **Readability**: The chart fails in terms of readability because of 2 reasons- _a._ meaning of low, average and high impact is not specified, _b._ actual values of the emissions can not be read from the chart. | 0 | 1
+:-------------: | --------------------------------- | :------: | ------------------------------- | :-----: |--------: 
+**Data** | **Integrity**: The data is taken from the paper published by Poore & Nemecek (2018) in Science which is a renowned scientific journal. | 1 | **Multivariability**: The chart categorizes impact of the greenhouse emissions into _low, average and high_ which is an insightful addition. However, little information is displayed from  other types of data such as farming practices, or overall contribution to total greenhouse gas emissions etc. | 0.5 | 1.5
+**Design** | **Chart type**: Chart layout is clean, colors have been used approrpiately to signify low, average and high impact. | 1 | **Readability**: The chart fails in terms of readability because of 2 reasons- _a._ meaning of low, average and high impact is not clear, _b._ actual values of the emissions can not be read from the chart. | 0 | 1
 **Argument** | **Clarity**: From the chart it can be clearly seen that vegetable proteins produce very little emissions as compared to animal proteins. But what is not clear is the contribution to total greenhouse gas emissions, and its resulting impact on the climate.  | 0.5 |  **Compelling**: The chart does have a strong message that _highest impact vegetable proteins emit less greenhouse gases than low impact animal proteins_. However, the chart does leave one wanting to know more about nature of land use and farming practices that might lead to this variation and overall effect on the climate from these emissions. | 0.5 | 1
 **Total Score** | | | | | **3.5** 
 
